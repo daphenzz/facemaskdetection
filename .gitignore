@@ -31,3 +31,5 @@ cnnmodel/
 dist/
 build/
 *.egg-info/
+
+data/images/
