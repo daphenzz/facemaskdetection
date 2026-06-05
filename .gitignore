@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Tests / notebooks / editors
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# Data / outputs / results / logs
+results/
+outputs/
+runs/
+
+# Models / checkpoints / large artifacts
+*.h5
+*.keras
+*.ckpt
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
