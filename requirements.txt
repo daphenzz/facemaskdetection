@@ -1,0 +1,11 @@
+kagglehub
+tensorflow
+# Use numpy < 2 to avoid deprecation warnings with some TF/Keras versions
+numpy<2
+keras
+matplotlib
+scikit-learn
+pandas
+seaborn
+Pillow
+pytest
