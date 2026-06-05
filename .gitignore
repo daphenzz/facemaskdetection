@@ -19,6 +19,9 @@ results/
 outputs/
 runs/
 
+# Old / legacy folders
+cnnmodel/
+
 # Models / checkpoints / large artifacts
 *.h5
 *.keras
