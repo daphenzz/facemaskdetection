@@ -32,4 +32,5 @@ dist/
 build/
 *.egg-info/
 
+# Dataset images (keep local, do not track)
 data/images/
