@@ -75,5 +75,3 @@ Files of interest
 - `models/` — model code, training and evaluation helpers
 - `data/` — data loading and preprocessing
 - `scripts/generate_montages.py` — make grouped montages
-
-If you want the README expanded with architecture details, training tips, or transfer-learning instructions, tell me which section to add.
